@@ -320,12 +320,4 @@ public class FlightsService {
         }
         return dateInMinutes;
     }
-
-
-    private void testMethod(){
-
-    }
-    private void testMethod1(){
-
-    }
 }
