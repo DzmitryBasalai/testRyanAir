@@ -33,10 +33,10 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1504623955403" expanded="true" signature="39195:39258" ph="..." />
-                <marker date="1504623955403" expanded="true" signature="39195:39243" ph="..." />
-                <marker date="1504623955403" expanded="true" signature="39195:39230" ph="..." />
-                <marker date="1504623955403" expanded="true" signature="39195:39212" ph="..." />
+                <marker date="1504623989070" expanded="true" signature="39305:39368" ph="..." />
+                <marker date="1504623989070" expanded="true" signature="39305:39353" ph="..." />
+                <marker date="1504623989070" expanded="true" signature="39305:39340" ph="..." />
+                <marker date="1504623989070" expanded="true" signature="39305:39322" ph="..." />
               </folding>
             </state>
           </provider>
@@ -254,10 +254,18 @@
       <updated>1504622665224</updated>
       <workItem from="1504622666515" duration="192000" />
     </task>
+    <task id="LOCAL-00001" summary="msg">
+      <created>1504624006822</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1504624006822</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="236000" />
+    <option name="totallyTimeSpent" value="255000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="952" y="0" width="976" height="1038" extended-state="0" />
@@ -324,6 +332,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="msg" />
+    <option name="LAST_COMMIT_MESSAGE" value="msg" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -383,10 +395,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1504623955403" expanded="true" signature="39195:39258" ph="..." />
-            <marker date="1504623955403" expanded="true" signature="39195:39243" ph="..." />
-            <marker date="1504623955403" expanded="true" signature="39195:39230" ph="..." />
-            <marker date="1504623955403" expanded="true" signature="39195:39212" ph="..." />
+            <marker date="1504623989070" expanded="true" signature="39305:39368" ph="..." />
+            <marker date="1504623989070" expanded="true" signature="39305:39353" ph="..." />
+            <marker date="1504623989070" expanded="true" signature="39305:39340" ph="..." />
+            <marker date="1504623989070" expanded="true" signature="39305:39322" ph="..." />
           </folding>
         </state>
       </provider>
